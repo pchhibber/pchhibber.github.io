@@ -1,0 +1,20 @@
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="pchhibber.com" resolutions="1x" timestamp="1476478426125">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_a-master.css" crc="4143410824" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="390359605" ref="index"/>
+    <file name="index.css" crc="3923702042" ref="index"/>
+    <file name="nomq_index.css" crc="465728309" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="483509463" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="439107114" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
+  </folder>
+  <file name="index.html" crc="239105148" seo="true" mt="1476477937221" redirect="true"/>
+</manifest>
